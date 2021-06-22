@@ -2250,7 +2250,7 @@ a.meanmenu-reveal i {
 /*  6.  Company CSS
 /*----------------------------------------*/
 .company-area {
-  background-image: url(img/bg/company.jpg);
+  background-image: url(img/bg/companySide.png);
 }
 .company-area::before {
   background-color: #262626;
