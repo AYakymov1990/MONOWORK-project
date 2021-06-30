@@ -173,7 +173,7 @@ ul {
   right: 0;
   bottom: 0;
   content: "";
-  background-color: #26ae61;
+  background-color: #262626;
   opacity: 0.8;
 }
 
@@ -821,7 +821,7 @@ select:-ms-input-placeholder {
 
 /*-- Page Banner Area --*/
 .page-banner-area {
-  background-image: url(img/bg/page-banner.jpg);
+  background-image: url(img/bg/companySide\ v.2.png);
   padding: 255px 0 140px;
 }
 .page-banner-area::before {
@@ -1254,7 +1254,7 @@ a.meanmenu-reveal i {
   }
 }
 .hero-caption.overlay::before {
-  background-color: #000000;
+  background-color: #00000000;
   opacity: 0.6;
 }
 
@@ -2250,7 +2250,7 @@ a.meanmenu-reveal i {
 /*  6.  Company CSS
 /*----------------------------------------*/
 .company-area {
-  background-image: url(img/bg/companySide.png);
+  background-image: url(img/bg/companySide\ v.2.png);
 }
 .company-area::before {
   background-color: #262626;
@@ -2306,7 +2306,7 @@ a.meanmenu-reveal i {
 /*----------------------------------------*/
 /*-- Testimonial Area --*/
 .testimonial-area {
-  background-image: url(img/bg/testimonial.jpg);
+  background-image: url(img/bg/companySide\ 1920x518.png);
 }
 .testimonial-area::before {
   opacity: 0.75;
