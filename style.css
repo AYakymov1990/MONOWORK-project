@@ -173,7 +173,7 @@ ul {
   right: 0;
   bottom: 0;
   content: "";
-  background-color: #262626;
+  /* background-color: #262626; */
   opacity: 0.8;
 }
 
@@ -821,9 +821,10 @@ select:-ms-input-placeholder {
 
 /*-- Page Banner Area --*/
 .page-banner-area {
-  background-image: url(img/bg/companySide\ v.2.png);
+  background-image: url(img/hero/aboutUs\ logo\ ver\ 1.2\ 1920x920.png);
   padding: 255px 0 140px;
 }
+
 .page-banner-area::before {
   background-color: #2a2a2a;
 }
@@ -1029,7 +1030,7 @@ select:-ms-input-placeholder {
 .main-menu nav > ul > li > a {
   font-size: 14px;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #ffb91c;
   font-weight: 600;
   padding: 43px 14px;
 }
@@ -1270,7 +1271,7 @@ a.meanmenu-reveal i {
 .hero-content h1 {
   font-size: 72px;
   font-weight: 800;
-  color: #ffffff;
+  color: #ffb91c;
   text-transform: uppercase;
   margin-bottom: 12px;
 }
@@ -1297,7 +1298,7 @@ a.meanmenu-reveal i {
 .hero-content p {
   font-size: 20px;
   line-height: 32px;
-  color: #eaeaea;
+  color: #ffb91c;
   max-width: 875px;
   padding: 0;
   margin-bottom: 30px;
@@ -1531,10 +1532,12 @@ a.meanmenu-reveal i {
 }
 /*-- Call To Action Area --*/
 .cta-area {
-  background-image: url(img/bg/cta.jpg);
+  background-image: url(img/hero/Work\ HQ.png);
+  background-repeat: no-repeat;
+  background-size: 1920x 920px;
 }
 .cta-area::before {
-  background-color: #262626;
+  /* background-color: #262626; */
   opacity: 0.85;
 }
 .cta-area .btn,
@@ -2225,7 +2228,7 @@ a.meanmenu-reveal i {
   color: #6d6d6d;
 }
 .job-details p {
-  color: #9c9c9c;
+  color: #757575;
   line-height: 26px;
   margin-bottom: 20px;
 }
@@ -2241,7 +2244,7 @@ a.meanmenu-reveal i {
   margin-bottom: 0;
 }
 .job-details ol li {
-  color: #8e8e8e;
+  color: #757575;
   line-height: 28px;
   font-size: 14px;
 }
